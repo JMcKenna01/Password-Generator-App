@@ -8,10 +8,10 @@ This repository contains a simple yet secure password generator implemented in J
 
 Key Features:
 
-User-friendly interface.
-Customizable password length and character types.
-Secure and random password generation.
-Ready for use in web applications or as a standalone tool.
+- User-friendly interface.
+- Customizable password length and character types.
+- Secure and random password generation.
+- Ready for use in web applications or as a standalone tool.
 
 
 ## Code Breakdown
