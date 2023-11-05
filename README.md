@@ -2,6 +2,16 @@
 
 ## Description
 
+A JavaScript-based Password Generator
+
+This repository contains a simple yet secure password generator implemented in JavaScript. The generator allows users to specify the length and character types for their password, and it generates random passwords based on their preferences. The generated password can be easily copied and used for enhanced online security.
+
+Key Features:
+
+User-friendly interface.
+Customizable password length and character types.
+Secure and random password generation.
+Ready for use in web applications or as a standalone tool.
 
 
 ## Code Breakdown
