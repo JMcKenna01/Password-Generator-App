@@ -29,7 +29,7 @@ Key Features:
 
 ## Link to the Deployed Application
 
-1
+https://jmckenna01.github.io/Password-Generator-App/ 
 
 
 ## Credits
