@@ -24,6 +24,9 @@ Key Features:
 
 ## Screenshot
 
+
+[CLICK-HERE](https://github.com/JMcKenna01/Password-Generator-App/blob/main/Assets/PwG.png)
+
 ## Link to the Deployed Application
 
 
